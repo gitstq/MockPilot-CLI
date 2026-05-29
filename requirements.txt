@@ -1,0 +1,3 @@
+# MockPilot-CLI
+# No external dependencies required - pure Python standard library
+# Python 3.8+ recommended
